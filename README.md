@@ -6,4 +6,4 @@ Program Java Gui dari class model mahasiswa
   - Nim : 10116490
   - Kelas : PBO11
 # Build with
- [NetBeansIDE](ttps://netbeans.org/ "NetBeansIDE")
+ * [NetBeansIDE](ttps://netbeans.org/ "NetBeansIDE")
