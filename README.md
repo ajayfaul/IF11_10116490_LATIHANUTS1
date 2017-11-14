@@ -5,5 +5,5 @@ Program Java Gui dari class model mahasiswa
   - Muhammad Fajar Maulana
   - Nim : 10116490
   - Kelas : PBO11
-# Build with
+# Build with :
  * [NetBeansIDE](https://netbeans.org/ "NetBeansIDE")
